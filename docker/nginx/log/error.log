@@ -1,0 +1,72 @@
+2019/08/17 15:32:08 [info] 8#8: *1 client closed connection while waiting for request, client: 172.28.0.1, server: 0.0.0.0:80
+2019/08/17 15:32:08 [info] 8#8: *3 client closed connection while waiting for request, client: 172.28.0.1, server: 0.0.0.0:80
+2019/08/17 15:32:38 [info] 8#8: *7 client closed connection while waiting for request, client: 172.28.0.1, server: 0.0.0.0:80
+2019/08/17 15:32:38 [info] 8#8: *6 client closed connection while waiting for request, client: 172.28.0.1, server: 0.0.0.0:80
+2019/08/17 15:40:32 [info] 8#8: *10 client closed connection while waiting for request, client: 172.28.0.1, server: 0.0.0.0:80
+2019/08/17 15:40:32 [info] 8#8: *8 client closed connection while waiting for request, client: 172.28.0.1, server: 0.0.0.0:80
+2019/08/17 15:41:43 [info] 9#9: *2 client closed connection while waiting for request, client: 172.29.0.1, server: 0.0.0.0:80
+2019/08/17 15:42:31 [info] 9#9: *4 client closed connection while waiting for request, client: 172.29.0.1, server: 0.0.0.0:80
+2019/08/17 16:01:38 [info] 10#10: *8 client timed out (110: Connection timed out) while waiting for request, client: 172.31.0.1, server: 0.0.0.0:80
+2019/08/17 16:01:38 [info] 10#10: *9 client timed out (110: Connection timed out) while waiting for request, client: 172.31.0.1, server: 0.0.0.0:80
+2019/08/17 16:01:38 [info] 10#10: *10 client timed out (110: Connection timed out) while waiting for request, client: 172.31.0.1, server: 0.0.0.0:80
+2019/08/17 16:03:54 [error] 8#8: *1 directory index of "/var/www/html/" is forbidden, client: 192.168.16.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2019/08/17 16:04:12 [error] 8#8: *1 directory index of "/var/www/html/" is forbidden, client: 192.168.16.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2019/08/17 16:09:03 [info] 9#9: *6 client closed connection while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:09:03 [info] 9#9: *5 client closed connection while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:10:03 [info] 9#9: *9 client timed out (110: Connection timed out) while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:10:03 [info] 9#9: *10 client timed out (110: Connection timed out) while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:14:19 [info] 9#9: *13 client closed connection while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:14:19 [info] 9#9: *15 client closed connection while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:14:44 [info] 9#9: *18 client closed connection while waiting for request, client: 192.168.32.1, server: 0.0.0.0:80
+2019/08/17 16:14:56 [warn] 9#9: *14 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 192.168.32.1, server: , request: "POST /register HTTP/1.1", upstream: "fastcgi://192.168.32.5:9000", host: "localhost:8080", referrer: "http://localhost:8080/register"
+2019/08/17 16:20:04 [info] 8#8: *3 client closed connection while waiting for request, client: 192.168.48.1, server: 0.0.0.0:80
+2019/08/17 16:20:04 [info] 8#8: *5 client closed connection while waiting for request, client: 192.168.48.1, server: 0.0.0.0:80
+2019/08/17 16:20:04 [info] 8#8: *4 client closed connection while waiting for request, client: 192.168.48.1, server: 0.0.0.0:80
+2019/08/17 16:21:02 [info] 8#8: *10 client closed connection while waiting for request, client: 192.168.48.1, server: 0.0.0.0:80
+2019/08/17 16:21:02 [info] 8#8: *11 client closed connection while waiting for request, client: 192.168.48.1, server: 0.0.0.0:80
+2019/08/17 16:21:02 [info] 8#8: *9 client closed connection while waiting for request, client: 192.168.48.1, server: 0.0.0.0:80
+2019/08/17 16:24:47 [info] 8#8: *4 client closed connection while waiting for request, client: 192.168.80.1, server: 0.0.0.0:80
+2019/08/17 16:24:47 [info] 8#8: *3 client closed connection while waiting for request, client: 192.168.80.1, server: 0.0.0.0:80
+2019/08/17 16:24:47 [info] 8#8: *5 client closed connection while waiting for request, client: 192.168.80.1, server: 0.0.0.0:80
+2019/08/17 16:26:54 [info] 8#8: *3 client timed out (110: Connection timed out) while waiting for request, client: 192.168.96.1, server: 0.0.0.0:80
+2019/08/17 16:26:54 [info] 8#8: *4 client timed out (110: Connection timed out) while waiting for request, client: 192.168.96.1, server: 0.0.0.0:80
+2019/08/17 16:26:54 [info] 8#8: *5 client timed out (110: Connection timed out) while waiting for request, client: 192.168.96.1, server: 0.0.0.0:80
+2019/08/17 16:33:22 [info] 8#8: *1 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.112.1, server: , request: "GET /projects/1 HTTP/1.1", upstream: "fastcgi://192.168.112.5:9000", host: "localhost:8080", referrer: "http://localhost:8080/projects"
+2019/08/17 16:33:44 [info] 8#8: *8 client closed connection while waiting for request, client: 192.168.112.1, server: 0.0.0.0:80
+2019/08/17 16:33:44 [info] 8#8: *7 client closed connection while waiting for request, client: 192.168.112.1, server: 0.0.0.0:80
+2019/08/17 16:33:46 [info] 8#8: *3 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.112.1, server: , request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.112.5:9000", host: "localhost:8080", referrer: "http://localhost:8080/projects/1"
+2019/08/17 16:37:02 [info] 8#8: *11 client timed out (110: Connection timed out) while waiting for request, client: 192.168.112.1, server: 0.0.0.0:80
+2019/08/17 16:37:02 [info] 8#8: *13 client timed out (110: Connection timed out) while waiting for request, client: 192.168.112.1, server: 0.0.0.0:80
+2019/08/17 16:38:37 [info] 9#9: *2 client closed connection while waiting for request, client: 192.168.128.1, server: 0.0.0.0:80
+2019/08/17 16:38:37 [info] 9#9: *3 client closed connection while waiting for request, client: 192.168.128.1, server: 0.0.0.0:80
+2019/08/17 16:39:25 [error] 9#9: *1 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.128.1, server: , request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.128.4:9000", host: "localhost:8080"
+2019/08/17 16:42:14 [error] 9#9: *5 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 192.168.128.1, server: , request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.128.4:9000", host: "localhost:8080"
+2019/08/17 16:47:02 [info] 8#8: *1 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.160.1, server: , request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.160.2:9000", host: "localhost:8080"
+2019/08/17 17:00:40 [info] 8#8: *6 client closed connection while waiting for request, client: 192.168.176.1, server: 0.0.0.0:80
+2019/08/17 17:00:40 [info] 8#8: *7 client closed connection while waiting for request, client: 192.168.176.1, server: 0.0.0.0:80
+2019/08/17 17:00:40 [info] 8#8: *8 client closed connection while waiting for request, client: 192.168.176.1, server: 0.0.0.0:80
+2019/08/17 17:01:04 [info] 8#8: *12 client closed connection while waiting for request, client: 192.168.176.1, server: 0.0.0.0:80
+2019/08/17 17:01:04 [info] 8#8: *13 client closed connection while waiting for request, client: 192.168.176.1, server: 0.0.0.0:80
+2019/08/17 17:23:58 [info] 9#9: *3 client closed connection while waiting for request, client: 192.168.224.1, server: 0.0.0.0:80
+2019/08/17 17:27:08 [info] 10#10: *1 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 192.168.240.1, server: , request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.240.5:9000", host: "localhost:8080"
+2019/08/17 17:29:00 [info] 8#8: *1 epoll_wait() reported that client prematurely closed connection, so upstream connection is closed too while sending request to upstream, client: 172.19.0.1, server: , request: "GET /login HTTP/1.1", upstream: "fastcgi://172.19.0.5:9000", host: "localhost:8080"
+2019/08/17 17:33:30 [info] 8#8: *5 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:80
+2019/08/17 23:05:48 [emerg] 9#9: "user" directive is not allowed here in /etc/nginx/conf.d/default.conf:1
+2019/08/17 23:07:11 [info] 10#10: *3 client closed connection while waiting for request, client: 192.168.80.1, server: 0.0.0.0:80
+2019/08/17 23:07:11 [info] 10#10: *1 client 192.168.80.1 closed keepalive connection
+2019/08/17 23:07:11 [info] 10#10: *2 client 192.168.80.1 closed keepalive connection
+2019/08/17 23:30:54 [info] 10#10: *3 client closed connection while waiting for request, client: 192.168.128.1, server: 0.0.0.0:80
+2019/08/18 16:50:18 [emerg] 10#10: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:15
+2019/08/18 16:50:45 [emerg] 9#9: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:15
+2019/08/18 16:53:03 [emerg] 9#9: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:15
+2019/08/18 16:54:46 [info] 12#12: *4 client 192.168.240.1 closed keepalive connection
+2019/08/18 16:54:46 [info] 12#12: *1 client 192.168.240.1 closed keepalive connection
+2019/08/18 16:57:46 [info] 10#10: *2 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2019/08/18 16:57:46 [info] 10#10: *3 client 172.19.0.1 closed keepalive connection
+2019/08/18 16:57:46 [info] 10#10: *4 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2019/08/18 16:57:46 [info] 10#10: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:80
+2019/09/17 12:18:52 [warn] 9#9: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /etc/nginx/nginx.conf:1
+2019/09/17 12:18:52 [emerg] 9#9: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2019/09/17 12:21:57 [warn] 9#9: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /etc/nginx/nginx.conf:1
+2019/09/17 12:21:57 [emerg] 9#9: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2020/04/26 01:40:33 [info] 8#8: *1 client closed connection while waiting for request, client: 172.18.0.1, server: 0.0.0.0:80

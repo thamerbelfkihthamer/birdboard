@@ -1,0 +1,3 @@
+.idea/
+app/vendor
+docker/mysql/dbdata
